@@ -12,12 +12,12 @@ DIN service is available on Kaia Testnet(Kairos). Visit https://dinsure.app
 - [Web Interface Repo](https://github.com/DINsure)
 
 **DIN Whitepaper**
-- [Whitepaper (English)](whitepaper/DIN-Decentralized-Insurance-Whitepaper-ENG.pdf) | [Google Drive](https://drive.google.com/file/d/1MdmnbSWYTkV0-JbC3BdzZuJmnQTB9XQ9/view?usp=drive_link)
-- [Whitepaper (Korean)](whitepaper/DIN-Decentralized-Insurance-Whitepaper-KOR.pdf) | [Google Drive](https://drive.google.com/file/d/1Ip2eHPr8GPxSrV2_d7xLvDXpzb3pNVq2/view?usp=drive_link)
+- [Whitepaper (English)](https://drive.google.com/file/d/1MdmnbSWYTkV0-JbC3BdzZuJmnQTB9XQ9/view?usp=drive_link)
+- [Whitepaper (Korean)](https://drive.google.com/file/d/1Ip2eHPr8GPxSrV2_d7xLvDXpzb3pNVq2/view?usp=drive_link)
 
 **Pitch Decks**
-- [Pitch Deck (English)](pitch-deck/DIN-Pitch-Deck-ENG.pdf) | [Google Drive](https://drive.google.com/file/d/1Cdk0pxG2Xlc77N3w_Id4tWqsi9blECLq/view?usp=drive_link)
-- [Pitch Deck (Korean)](pitch-deck/DIN-Pitch-Deck-KOR.pdf) | [Google Drive](https://drive.google.com/file/d/1uAXCVN4jBQTpJyOUgZlQjEG3F10E53En/view?usp=drive_link)
+- [Pitch Deck (English)](https://drive.google.com/file/d/1Cdk0pxG2Xlc77N3w_Id4tWqsi9blECLq/view?usp=drive_link)
+- [Pitch Deck (Korean)](https://drive.google.com/file/d/1uAXCVN4jBQTpJyOUgZlQjEG3F10E53En/view?usp=drive_link)
 
 
 ## 1. Problem & Solution
@@ -96,7 +96,7 @@ DIN aims to evolve into the **Kaia ecosystem’s core DeFi insurance infrastruct
 
 **1단계 - 테스트넷 및 MVP:** `Product Catalog`, `TranchePool`, `SettlementEngine`, `OracleRouter`, `YieldRouter` 등 핵심 인프라를 테스트넷에서 통합, 검증하고 보험 매칭과 Auto-Refund 등의 보험 지급을 확인하며, 외부 감사와 버그바운티로 초기 신뢰를 확보하는 데 집중합니다. 생태계 확장을 위한 LINE Mini DApp 지원도 추가합니다.
 
-**2단계 - 메인넷 확장 및 파일럿:** 2단계는 메인넷으로 확장하여 DINO 기반 특수 이벤트 상품을 도입하고 화이트리스트 재예치 대상과 위험 한도를 점진적으로 확대하며, 엔터프라이즈·DAO 파일럿과 추가 감사 및 공개 운영 리포트와 제한적 DIN 인센티브(베스팅 포함)를 통해 수요와 투명성을 검증합니다.
+**2단계 - 메인넷 확장 및 파일럿:** 2단계는 메인넷으로 확장하여 DINO 기반 특수 이벤트 상품을 도입하고 화이트리스트 재예치 대상과 위험 한도를 점진적으로 확대하며, 엔터프라이즈 및 DAO 파일럿과 추가 감사 및 공개 운영 리포트와 제한적 DIN 인센티브(베스팅 포함)를 통해 수요와 투명성을 검증합니다.
 
 **3단계 - 점진적 개방 및 거버넌스 전환:** 3단계는 전문 인수자와 상품 설계자를 온보딩하고 일부 운영 파라미터를 DINGO 거버넌스로 단계적으로 이양하며, 역할 기반 스테이킹과 평판 요건으로 참여 품질을 보장하면서 크로스체인 통합과 기업용 API를 갖춘 오픈 마켓플레이스로 전환합니다.
 
