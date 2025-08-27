@@ -65,7 +65,7 @@ DIN’s ecosystem comprises three core primitives that together sustain protocol
 
 **DIN Token** functions as the utility instrument for governance staking, oracle bonds, and targeted incentives, it is designed with transparent supply and vesting rules and is used sparingly for purposes that enhance market depth or bootstrap new categories, while accounting and payouts remain denominated in USDT to protect claim capacity from token volatility.
 
-**DINO(DIN Oracle)** is an optimistic oracle tailored for bespoke conditions and special-event adjudication, it operates via an assertion, liveness, dispute, settle lifecycle where DIN-backed bonds secure economic incentives for honest reporting and allow efficient resolution of edge cases that standard feeds cannot cover. DINO parameters such as bond size, liveness windows, and dispute economics are tiered by tranche risk and are published on-chain to ensure predictable governance and operational safety.
+**DINO(DIN Oracle)** is an optimistic oracle tailored for bespoke conditions and special-event adjudication, it operates via an assertion, liveness, dispute, settle lifecycle where DIN-backed bonds secure economic incentives for honest reporting and allow efficient resolution of edge cases like weather, political events that standard feeds cannot cover. DINO parameters such as bond size, liveness windows, and dispute economics are tiered by tranche risk and are published on-chain to ensure predictable governance and operational safety.
 
 **DINGO(DIN Governance)** is the governance framework that will progressively assume control over protocol parameters, it begins with multisig and timelock safeguards managed by the team, then transitions to token-enabled proposal and voting processes that govern fees, oracle routing, re-stake whitelists, and tranche limits, while role-based staking and reputation requirements help maintain participation quality. DINGO’s staged decentralization model ensures that operational safety and community oversight advance together.
 
@@ -73,7 +73,7 @@ DIN’s ecosystem comprises three core primitives that together sustain protocol
 
 **DIN 토큰** 은 거버넌스 스테이킹, 오라클 보증금, 목표형 인센티브 수단으로 설계되어 투명한 공급과 베스팅 정책 하에서 제한적으로 사용됩니다, 핵심 회계는 여전히 USDT로 유지되어 토큰 가격 변동이 보험 지급 능력에 영향을 주지 않습니다.
 
-**DINO(DIN Oracle)** 는 맞춤형 조건과 특수 이벤트에 대한 판정을 위해 설계된 낙관적 오라클로, `Assertion, Liveness, Dispute, Settle`의 절차를 통해 동작합니다. 주장자와 이의제기자는 DIN 토큰으로 보증금을 예치하며, 이 구조는 표준 피드로 처리하기 어려운 사례를 경제적 인센티브와 공개 규칙으로 효율적으로 해결할 수 있게 합니다. DINO의 파라미터는 트랜치 위험도에 따라 계층화되어 온체인에 공개됩니다.
+**DINO(DIN Oracle)** 는 맞춤형 조건과 특수 이벤트에 대한 판정을 위해 설계된 낙관적 오라클로, `Assertion, Liveness, Dispute, Settle`의 절차를 통해 동작합니다. 주장자와 이의제기자는 DIN 토큰으로 보증금을 예치하며, 이 구조는 기후 보험, 정치 이벤트 보험처럼 표준 피드로 처리하기 어려운 사례를 경제적 인센티브와 공개 규칙으로 효율적으로 해결할 수 있게 합니다. DINO의 파라미터는 트랜치 위험도에 따라 계층화되어 온체인에 공개됩니다.
 
 **DINGO(DIN Governance)** 는 프로토콜 파라미터의 점진적 이양을 위한 거버넌스 프레임워크로, 초기에는 팀의 멀티시그와 타임록으로 안정성을 확보하고 이후에는 거버넌스로 권한이 점차 이전되며 토큰 기반 제안과 투표로 수수료, 오라클 라우팅, 재예치 화이트리스트, 트랜치 한도 등을 관리하게 됩니다. 거버넌스 참여를 위해서는 DIN 스테이킹과 평판 요건을 도입하여 참여자들의 신뢰를 보장하며, 단계적 탈중앙화는 운영 안전성과 커뮤니티 감시가 함께 이루어지도록 설계되었습니다.
 
