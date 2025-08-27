@@ -1,24 +1,23 @@
 # DIN: Decentralized Insurance
 
 <figure style="text-align:center;">
-  <img src="images/BI-vertical-text.jpg" alt="DIN LOGO" style="width:50%; max-width:300px; height:auto;" />
+  <img src="https://cdn.dorahacks.io/static/files/198e995730a326b4c9ca9c14f83bc619.jpg" alt="DIN LOGO" style="width:50%; max-width:300px; height:auto;" />
 </figure>
 
 DIN service is available on Kaia Testnet(Kairos). Visit https://dinsure.app
 
-
 **Official Repo**
 - [Docs Repo](https://github.com/DINsure/din-docs)
-- [Contract Code Repo](https://github.com/DINsure/din-docs)
+- [Contract Code Repo](https://github.com/DINsure/din-contract)
 - [Web Interface Repo](https://github.com/DINsure)
 
 **DIN Whitepaper**
-- [Whitepaper (English)](whitepaper/DIN-Decentralized-Insurance-Whitepaper-ENG.pdf)
-- [Whitepaper (Korean)](whitepaper/DIN-Decentralized-Insurance-Whitepaper-KOR.pdf)
+- [Whitepaper (English)](https://github.com/DINsure/din-docs/blob/main/whitepaper/DIN-Decentralized-Insurance-Whitepaper-ENG.pdf)
+- [Whitepaper (Korean)](https://github.com/DINsure/din-docs/blob/main/whitepaper/DIN-Decentralized-Insurance-Whitepaper-KOR.pdf)
 
 **Pitch Decks**
-- [Pitch Deck (English)](pitch-deck/DIN-Pitch-Deck-ENG.pdf)
-- [Pitch Deck (Korean)](pitch-deck/DIN-Pitch-Deck-KOR.pdf)
+- [Pitch Deck (English)](https://github.com/DINsure/din-docs/blob/main/pitch-deck/DIN-Pitch-Deck-ENG.pdf)
+- [Pitch Deck (Korean)](https://github.com/DINsure/din-docs/blob/main/pitch-deck/DIN-Pitch-Deck-KOR.pdf)
 
 
 ## 1. Problem & Solution
@@ -81,9 +80,7 @@ DIN’s ecosystem comprises three core primitives that together sustain protocol
 
 ## 5. Operation & Roadmap
 
-<figure style="text-align:center;">
-  <img src="images/DIN-roadmap.png" alt="DIN ROADMAP" style="width:auto; max-height:400px;" />
-</figure>
+![roadmap_mini.png](https://cdn.dorahacks.io/static/files/198e99b577cf9caa769157948c8b5e86.png)
 
 Initial operations are team-led to build operational stability and trust, followed by staged onboarding of whitelist underwriters and progressive transfer of governance to the community via the DINGO framework. The roadmap moves from testnet and MVP validation to mainnet expansion with targeted DINO-driven products and, ultimately, an open marketplace governed by token-based participation and performance-aligned incentives.
 
