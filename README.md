@@ -6,6 +6,7 @@
 
 DIN service is available on Kaia Testnet(Kairos). Visit https://dinsure.app
 
+Check our demo video on [Youtube](https://www.youtube.com/watch?v=gMrFq3WHW-Y)
 
 **Official Repo**
 - [Docs Repo](https://github.com/DINsure/din-docs)
