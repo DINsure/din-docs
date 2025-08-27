@@ -6,17 +6,22 @@
 
 DIN service is available on Kaia Testnet(Kairos). Visit https://dinsure.app
 
-**Pitch Decks**
-- [Pitch Deck (English)](pitch-deck/DIN-Pitch-Deck-ENG.pdf)
-- [Pitch Deck (Korean)](pitch-deck/DIN-Pitch-Deck-KOR.pdf)
+
+**Official Docs**
+- [Docs Repo](https://github.com/DINsure/din-docs)
 
 **DIN Whitepaper**
 - [Whitepaper (English)](whitepaper/DIN-Decentralized-Insurance-Whitepaper-ENG.pdf)
 - [Whitepaper (Korean)](whitepaper/DIN-Decentralized-Insurance-Whitepaper-KOR.pdf)
 
+**Pitch Decks**
+- [Pitch Deck (English)](pitch-deck/DIN-Pitch-Deck-ENG.pdf)
+- [Pitch Deck (Korean)](pitch-deck/DIN-Pitch-Deck-KOR.pdf)
+
+
 ## 1. Problem & Solution
 
-Web3 users remain exposed to high volatility, smart contract risks, and uncertainties arising from external events, and practical protection is lacking compared with traditional finance. The only widely available mitigation—managing derivatives—requires specialized expertise and continuous oversight, making it a difficult option for most users to adopt.
+Web3 users remain exposed to high volatility, smart contract risks, and uncertainties arising from external events, and practical protection is lacking compared with traditional finance. The only widely available mitigation, managing derivatives, requires specialized expertise and continuous oversight, making it a difficult option for most users to adopt.
 
 DIN proposes an on-chain parametric, condition-based insurance solution to fill this gap. By combining automated settlement with multi-source oracle routing, the protocol removes complex claims processing, and offers the advantages of clear payout rules and on-chain enforceability.
 
