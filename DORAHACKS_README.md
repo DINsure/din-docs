@@ -84,21 +84,21 @@ DIN’s ecosystem comprises three core primitives that together sustain protocol
 
 Initial operations are team-led to build operational stability and trust, followed by staged onboarding of whitelist underwriters and progressive transfer of governance to the community via the DINGO framework. The roadmap moves from testnet and MVP validation to mainnet expansion with targeted DINO-driven products and, ultimately, an open marketplace governed by token-based participation and performance-aligned incentives.
 
-**Phase 1 — Testnet & MVP:** Focuses on integrating and validating core infrastructure (`Product Catalog`, `TranchePool`, `SettlementEngine`, `OracleRouter`, `YieldRouter`) on testnet, confirming deterministic matching and Auto-Refund behavior, and establishing baseline security through an external audit and bug bounty. Add support on LINE Mini DApp for ecosystem expansion
+**Phase 1 - Testnet & MVP:** Focuses on integrating and validating core infrastructure (`Product Catalog`, `TranchePool`, `SettlementEngine`, `OracleRouter`, `YieldRouter`) on testnet, confirming deterministic matching and Auto-Refund behavior, and establishing baseline security through an external audit and bug bounty. Add support on LINE Mini DApp for ecosystem expansion
 
-**Phase 2 — Mainnet & Pilots:** Phase 2 expands to mainnet with targeted DINO-driven special-event products, gradual enlargement of whitelist re-stake targets and risk limits, and enterprise/DAO pilot programs, while preserving transparency via additional audits, public operational reports, and narrowly scoped DIN incentives with vesting.
+**Phase 2 - Mainnet & Pilots:** Phase 2 expands to mainnet with targeted DINO-driven special-event products, gradual enlargement of whitelist re-stake targets and risk limits, and enterprise/DAO pilot programs, while preserving transparency via additional audits, public operational reports, and narrowly scoped DIN incentives with vesting.
 
-**Phase 3 — Progressive Opening & Governance:** Phase 3 onboards professional underwriters and product designers, stages delegation of selected parameters to DINGO governance with role-based staking and reputation requirements, and transitions toward an open marketplace with cross-chain integrations and enterprise APIs.
+**Phase 3 - Progressive Opening & Governance:** Phase 3 onboards professional underwriters and product designers, stages delegation of selected parameters to DINGO governance with role-based staking and reputation requirements, and transitions toward an open marketplace with cross-chain integrations and enterprise APIs.
 
 DIN aims to evolve into the **Kaia ecosystem’s core DeFi insurance infrastructure**, founded on trust, transparency, and capital efficiency.
 
 초기 운영은 팀 주도로 안정적 실행과 초기 사용자 및 파트너 신뢰 확보에 중점을 둡니다, 팀은 라운드 운영과 초기 상품 설계, 보수적 노출 한도 설정, 면밀한 모니터링과 리포팅을 직접 수행하며, 중요한 운영은 멀티시그와 타임록으로 보호됩니다. 손해율, 체결률, 유동성 커버리지, 금고 현금흐름과 같은 핵심 KPI를 상시 관찰하고, 단계별 체크리스트를 통해 라운드 규모나 상품 확장 여부를 결정합니다.
 
-**1단계 — 테스트넷 및 MVP:** `Product Catalog`, `TranchePool`, `SettlementEngine`, `OracleRouter`, `YieldRouter` 등 핵심 인프라를 테스트넷에서 통합, 검증하고 보험 매칭과 Auto-Refund 등의 보험 지급을 확인하며, 외부 감사와 버그바운티로 초기 신뢰를 확보하는 데 집중합니다. 생태계 확장을 위한 LINE Mini DApp 지원도 추가합니다.
+**1단계 - 테스트넷 및 MVP:** `Product Catalog`, `TranchePool`, `SettlementEngine`, `OracleRouter`, `YieldRouter` 등 핵심 인프라를 테스트넷에서 통합, 검증하고 보험 매칭과 Auto-Refund 등의 보험 지급을 확인하며, 외부 감사와 버그바운티로 초기 신뢰를 확보하는 데 집중합니다. 생태계 확장을 위한 LINE Mini DApp 지원도 추가합니다.
 
-**2단계 — 메인넷 확장 및 파일럿:** 2단계는 메인넷으로 확장하여 DINO 기반 특수 이벤트 상품을 도입하고 화이트리스트 재예치 대상과 위험 한도를 점진적으로 확대하며, 엔터프라이즈·DAO 파일럿과 추가 감사 및 공개 운영 리포트와 제한적 DIN 인센티브(베스팅 포함)를 통해 수요와 투명성을 검증합니다.
+**2단계 - 메인넷 확장 및 파일럿:** 2단계는 메인넷으로 확장하여 DINO 기반 특수 이벤트 상품을 도입하고 화이트리스트 재예치 대상과 위험 한도를 점진적으로 확대하며, 엔터프라이즈·DAO 파일럿과 추가 감사 및 공개 운영 리포트와 제한적 DIN 인센티브(베스팅 포함)를 통해 수요와 투명성을 검증합니다.
 
-**3단계 — 점진적 개방 및 거버넌스 전환:** 3단계는 전문 인수자와 상품 설계자를 온보딩하고 일부 운영 파라미터를 DINGO 거버넌스로 단계적으로 이양하며, 역할 기반 스테이킹과 평판 요건으로 참여 품질을 보장하면서 크로스체인 통합과 기업용 API를 갖춘 오픈 마켓플레이스로 전환합니다.
+**3단계 - 점진적 개방 및 거버넌스 전환:** 3단계는 전문 인수자와 상품 설계자를 온보딩하고 일부 운영 파라미터를 DINGO 거버넌스로 단계적으로 이양하며, 역할 기반 스테이킹과 평판 요건으로 참여 품질을 보장하면서 크로스체인 통합과 기업용 API를 갖춘 오픈 마켓플레이스로 전환합니다.
 
 DIN은 궁극적으로 신뢰와 투명성, 자본 효율을 축으로 **Kaia 생태계의 핵심 DeFi 보험 인프라**로 성장할 것입니다.
 
