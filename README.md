@@ -13,12 +13,12 @@ DIN service is available on Kaia Testnet(Kairos). Visit https://dinsure.app
 - [Web Interface Repo](https://github.com/DINsure)
 
 **DIN Whitepaper**
-- [Whitepaper (English)](whitepaper/DIN-Decentralized-Insurance-Whitepaper-ENG.pdf) | [Google Drive](https://drive.google.com/file/d/1uAXCVN4jBQTpJyOUgZlQjEG3F10E53En/view?usp=sharing)
-- [Whitepaper (Korean)](whitepaper/DIN-Decentralized-Insurance-Whitepaper-KOR.pdf) | [Google Drive](https://drive.google.com/file/d/1MdmnbSWYTkV0-JbC3BdzZuJmnQTB9XQ9/view?usp=sharing)
+- [Whitepaper (English)](whitepaper/DIN-Decentralized-Insurance-Whitepaper-ENG.pdf) | [Google Drive](https://drive.google.com/file/d/1MdmnbSWYTkV0-JbC3BdzZuJmnQTB9XQ9/view?usp=drive_link)
+- [Whitepaper (Korean)](whitepaper/DIN-Decentralized-Insurance-Whitepaper-KOR.pdf) | [Google Drive](https://drive.google.com/file/d/1Ip2eHPr8GPxSrV2_d7xLvDXpzb3pNVq2/view?usp=drive_link)
 
 **Pitch Decks**
-- [Pitch Deck (English)](pitch-deck/DIN-Pitch-Deck-ENG.pdf) | [Google Drive](https://drive.google.com/file/d/1uAXCVN4jBQTpJyOUgZlQjEG3F10E53En/view?usp=sharing)
-- [Pitch Deck (Korean)](pitch-deck/DIN-Pitch-Deck-KOR.pdf) | [Google Drive](https://drive.google.com/file/d/1Cdk0pxG2Xlc77N3w_Id4tWqsi9blECLq/view?usp=sharing)
+- [Pitch Deck (English)](pitch-deck/DIN-Pitch-Deck-ENG.pdf) | [Google Drive](https://drive.google.com/file/d/1Cdk0pxG2Xlc77N3w_Id4tWqsi9blECLq/view?usp=drive_link)
+- [Pitch Deck (Korean)](pitch-deck/DIN-Pitch-Deck-KOR.pdf) | [Google Drive](https://drive.google.com/file/d/1uAXCVN4jBQTpJyOUgZlQjEG3F10E53En/view?usp=drive_link)
 
 
 ## 1. Problem & Solution
