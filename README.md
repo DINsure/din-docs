@@ -10,8 +10,8 @@ Check our demo video on [Youtube](https://www.youtube.com/watch?v=gMrFq3WHW-Y)
 
 **Official Repo**
 - [Docs Repo](https://github.com/DINsure/din-docs)
-- [Contract Code Repo](https://github.com/DINsure/din-docs)
-- [Web Interface Repo](https://github.com/DINsure)
+- [Contract Code Repo](https://github.com/DINsure/din-contract)
+- [Web Interface Repo](https://github.com/DINsure/din-app)
 
 **DIN Whitepaper**
 - [Whitepaper (English)](whitepaper/DIN-Decentralized-Insurance-Whitepaper-ENG.pdf) | [Google Drive](https://drive.google.com/file/d/1MdmnbSWYTkV0-JbC3BdzZuJmnQTB9XQ9/view?usp=drive_link)

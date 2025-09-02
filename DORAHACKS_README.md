@@ -9,7 +9,7 @@ DIN service is available on Kaia Testnet(Kairos). Visit https://dinsure.app
 **Official Repo**
 - [Docs Repo](https://github.com/DINsure/din-docs)
 - [Contract Code Repo](https://github.com/DINsure/din-contract)
-- [Web Interface Repo](https://github.com/DINsure)
+- [Web Interface Repo](https://github.com/DINsure/din-app)
 
 **DIN Whitepaper**
 - [Whitepaper (English)](https://drive.google.com/file/d/1MdmnbSWYTkV0-JbC3BdzZuJmnQTB9XQ9/view?usp=drive_link)
